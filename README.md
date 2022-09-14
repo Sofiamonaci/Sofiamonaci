@@ -11,5 +11,5 @@ contains all necessary modules and functions to generate ecg-based or egm-based 
 # Repository Automated_VT_Localisation
 contains all necessary modules and functions to train/test a DL-based AI architecture to localise scar-related VT exit sites or locations of focal beats. Training and testing datasets (in .mat format) need to be provided by the user.
 
-# Repository PhD_Important_Functions#
+# Repository PhD_Important_Functions
 contains modules and functions to process, manipulate data, parametrise EP according to measured QRS/ECG signals, generate virtual scar around a mesh of interest and so on.
