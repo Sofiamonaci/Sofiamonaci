@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on improving codes/pipelines
 
 
-# Repository In-Silico-Pace-Mapping
+# Repository In-silico-Pace-mapping
 contains all necessary modules and functions to generate ecg-based or egm-based pace-maps given a reference ecg/egm signal (which needs to be provided by the user if the repository is downloaded) and paced beat ecg/egm signals (which again needs to be provided by the user).
 
 
